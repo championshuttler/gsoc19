@@ -21,6 +21,7 @@
  * [Use sphinx.util.logging instead of app.info()](https://phabricator.services.mozilla.com/D37539) [Merged]
  * [Setup rst linter for the documentation](https://phabricator.services.mozilla.com/D36586) [Merged]
  * [Setup rstcheck linter instead of restructuredtext-lint](https://phabricator.services.mozilla.com/D38339) [Merged]
+ * [Add ability to specify redirects](https://phabricator.services.mozilla.com/D41548) [Merged]
  * [Fix Sphinx Warning - Unexpected indentation (1)](https://phabricator.services.mozilla.com/D35304) [Merged]
  * [Fix Sphinx Warning - Title Underline too short in 'mach doc' (2)](https://phabricator.services.mozilla.com/D35309) [Merged]
  * [Fix various Sphinx Warning in 'mach doc' (3)](https://phabricator.services.mozilla.com/D35314) [Merged]
@@ -31,5 +32,8 @@
  * [Fix Sphinx Warning for not referenced hyperlinks](https://phabricator.services.mozilla.com/D39057) [Merged]
  * [Removed Sphinx documentation output files is not removed from web server](https://phabricator.services.mozilla.com/D35598) [Merged]
  * [Improve mach doc performance, use sphinx's -J argument](https://phabricator.services.mozilla.com/D41058) [Merged]
+ * [Enable RST linter for browser/docs/ and tools/tryselect/docs/](https://phabricator.services.mozilla.com/D41991) [Merged]
+ * [Preserve the firefox-source-docs host name](https://phabricator.services.mozilla.com/D42548) [Merged]
+ * [Call delete after upload to avoid Contents key error](https://phabricator.services.mozilla.com/D42700) [Merged]
  
  
