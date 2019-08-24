@@ -9,3 +9,5 @@
  * [Bug 1564799 - Use sphinx.util.logging instead of app.info()](https://bugzilla.mozilla.org/show_bug.cgi?id=1564799)
  * [Bug 1527363 - Add ability to specify redirects](https://bugzilla.mozilla.org/show_bug.cgi?id=1527363)
  * [Bug 1526796 - Removed Sphinx documentation output files is not removed from web server](https://bugzilla.mozilla.org/show_bug.cgi?id=1526796)
+ * [Bug 1460678 - Improve |mach doc| performance](https://bugzilla.mozilla.org/show_bug.cgi?id=1460678)
+ * [Bug 1574948 - Redirects don't preserve the firefox-source-docs host name](https://bugzilla.mozilla.org/show_bug.cgi?id=1574948)
