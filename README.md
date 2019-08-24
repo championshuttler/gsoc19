@@ -14,6 +14,7 @@
  * [Bug 1574948 - Redirects don't preserve the firefox-source-docs host name](https://bugzilla.mozilla.org/show_bug.cgi?id=1574948)
  * [Bug 1569472 - Enable RST Linter on more directories](https://bugzilla.mozilla.org/show_bug.cgi?id=1569472)
  * [Bug 1574609 - Fix telemetry/telemetry path component in firefox-source-docs](https://bugzilla.mozilla.org/show_bug.cgi?id=1574609)
+ * [Bug 1571671 - Enable RST linting on fluent docs in intl/l10n/docs](https://bugzilla.mozilla.org/show_bug.cgi?id=1571671)
 
 
 # Pull Requests
