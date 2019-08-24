@@ -21,3 +21,15 @@
  * [Use sphinx.util.logging instead of app.info()](https://phabricator.services.mozilla.com/D37539) [Merged]
  * [Setup rst linter for the documentation](https://phabricator.services.mozilla.com/D36586) [Merged]
  * [Setup rstcheck linter instead of restructuredtext-lint](https://phabricator.services.mozilla.com/D38339) [Merged]
+ * [Fix Sphinx Warning - Unexpected indentation (1)](https://phabricator.services.mozilla.com/D35304) [Merged]
+ * [Fix Sphinx Warning - Title Underline too short in 'mach doc' (2)](https://phabricator.services.mozilla.com/D35309) [Merged]
+ * [Fix various Sphinx Warning in 'mach doc' (3)](https://phabricator.services.mozilla.com/D35314) [Merged]
+ * [Fix various Sphinx Warning in 'mach doc' (4)](https://phabricator.services.mozilla.com/D38046) [Merged]
+ * [Fix taskcluster docs linting errors](https://phabricator.services.mozilla.com/D39627) [Merged]
+ * [Level Down the Error level to 2 in linter](https://phabricator.services.mozilla.com/D39663) [Merged]
+ * [Add mermaid package to Firefox source docs](https://phabricator.services.mozilla.com/D39742) [Merged]
+ * [Fix Sphinx Warning for not referenced hyperlinks](https://phabricator.services.mozilla.com/D39057) [Merged]
+ * [Removed Sphinx documentation output files is not removed from web server](https://phabricator.services.mozilla.com/D35598) [Merged]
+ * [Improve mach doc performance, use sphinx's -J argument](https://phabricator.services.mozilla.com/D41058) [Merged]
+ 
+ 
