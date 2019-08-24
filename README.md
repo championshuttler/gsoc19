@@ -12,3 +12,4 @@
  * [Bug 1526796 - Removed Sphinx documentation output files is not removed from web server](https://bugzilla.mozilla.org/show_bug.cgi?id=1526796)
  * [Bug 1460678 - Improve |mach doc| performance](https://bugzilla.mozilla.org/show_bug.cgi?id=1460678)
  * [Bug 1574948 - Redirects don't preserve the firefox-source-docs host name](https://bugzilla.mozilla.org/show_bug.cgi?id=1574948)
+ * [Bug 1574609 - Fix telemetry/telemetry path component in firefox-source-docs](https://bugzilla.mozilla.org/show_bug.cgi?id=1574609)
