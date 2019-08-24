@@ -35,5 +35,5 @@
  * [Enable RST linter for browser/docs/ and tools/tryselect/docs/](https://phabricator.services.mozilla.com/D41991) [Merged]
  * [Preserve the firefox-source-docs host name](https://phabricator.services.mozilla.com/D42548) [Merged]
  * [Call delete after upload to avoid Contents key error](https://phabricator.services.mozilla.com/D42700) [Merged]
- 
+ * [Build regular and python API docs in parallel](https://phabricator.services.mozilla.com/D41062)
  
