@@ -2,6 +2,8 @@
 
 # Firefox Source Docs Infrastructure
 
+This project aims to improve the infrastructure underpinning Firefox's in-tree documentation via enabling linters, faster build times, setting up redirect and well structured hierarchies.
+
 # Issues
  * [Bug 1535452 - Make writing and reading our in-tree documentation a first class experience](https://bugzilla.mozilla.org/show_bug.cgi?id=1535452) (Meta Issue)
  * [Bug 1527361 - Stand up restructuredtext-lint to catch problems in our documentation early](https://bugzilla.mozilla.org/show_bug.cgi?id=1535452)
