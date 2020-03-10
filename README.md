@@ -1,5 +1,11 @@
 # GSoC 2019
 
+Writing docs for Firefox's in-tree source docs is time consuming and difficult and the end result is difficult to navigate.
+
+With MDN de-prioritizing build and workflow docs, we need a suitable replacement for all of Firefox's contribution and workflow documentation. The great advantage of documentation living in-tree, is that it can be updated along with the source. Unfortunately the current system to build and generate docs is difficult to write for, slow to build and generates poorly organized documentation. These factors discourage developers from creating or updating docs.
+
+This project aims to improve the documentation experience via static analysis tools (e.g hint when docs might need to be updated), enabling linters, faster build times, additional language support and well structured hierarchies. Help make documentation a bigger part of our developer's day to day workflow. 
+
 # Firefox Source Docs Infrastructure
 
 This project aims to improve the infrastructure underpinning Firefox's in-tree documentation via enabling linters, faster build times, setting up redirect and well structured hierarchies.
